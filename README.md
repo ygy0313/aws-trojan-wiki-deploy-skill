@@ -11,14 +11,18 @@
 
 ## 免费域名资源
 
-DNSHE https://www.dnshe.com/
-邀请码 CY483A4A4B
+DNSHE https://www.dnshe.com/	 邀请码 CY483A4A4B
 
 DigitalPlat https://domain.digitalplat.org/
+
 ClouDNS https://www.cloudns.net/index/lang/chs
+
 dynv6 https://dynv6.com/
+
 ZoneABC https://zoneabc.net/
+
 Dynu https://www.dynu.com/
+
 Nodeloc https://domain.nodeloc.com/
 
 ## 目录
